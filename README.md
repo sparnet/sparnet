@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @sparnet
-- 👀 I’m interested to be one day jr. dev on www.coralmc.it
-- 🌱 I’m currently learning java & python
-- 📫 How to reach me, tg @whymelooser, ds sparnet_ ...
-
-Started learning java on 01/11/2023 ...
+sparnett
